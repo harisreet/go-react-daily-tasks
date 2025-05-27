@@ -50,7 +50,7 @@
     ```
 3. **Start Backend API server:**
     ```bash
-     cd go-and-react
+     cd go-react-daily-tasks
      go run main.go
      ```
 4. **Start Frontend server:**
