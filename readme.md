@@ -37,12 +37,11 @@
 ### Steps
 
 1. **Clone the repository**  
-```bash
-git clone https://github.com/harisreet/react-go-todolist
-cd react-go-todolist
-```
+    ```bash
+    git clone https://github.com/harisreet/go-react-daily-tasks
+    cd go-react-daily-tasks
+    ```
 2. **Configure environment variables:**
-
     Create a `.env` file in the project root (example):
     ```ini
     PORT=5000
@@ -50,7 +49,7 @@ cd react-go-todolist
     ENV=DEVELOPMENT
     ```
 3. **Start Backend API server:**
-   ```bash
+    ```bash
      cd go-and-react
      go run main.go
      ```
